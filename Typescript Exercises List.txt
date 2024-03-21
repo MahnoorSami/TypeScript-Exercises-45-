@@ -1,0 +1,45 @@
+1.Hello World
+2.Personal Message
+3.Name Cases
+4.Famous Quote
+5.Famous Quote 2
+6.Stripping Names
+7.Using four line (No. 8)
+8.Using four line (No. 10)
+9.Favourite Number
+10.Adding Comments
+11.Names
+12.Greeting
+13.Array
+14.Guest List
+15.Changing Guest List
+16.More Guest List
+17.Shrinking Guest List
+18.Seeing the World
+19.Dinner Guest List
+20.Store in Array
+21.Objects
+22.Intentional Error
+23.Conditional Tests
+24.More Conditional Tests
+25.Alien Color 1
+26.Alien Color 2
+27.Alien Color 3
+28.Stages of Life
+29.Favourite Fruits
+30.Hello Admin
+31.No Users
+32.Checking Usernames
+33.Ordinal Numbers
+34.Pizzas
+35.Animals
+36.T-Shirts
+37.Large Shirts
+38.Cities
+39.City Names
+40.Albums
+41.Magicians
+42.Great Magicians
+43.Unchanged Magicians
+44.Sandwiches
+45.Cars
